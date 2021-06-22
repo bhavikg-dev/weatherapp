@@ -1,0 +1,12 @@
+{
+	"react-native": {
+		"crashlytics_auto_collection_enabled": true,
+		"crashlytics_debug_enabled": true,
+		"crashlytics_ndk_enabled": false,
+		"crashlytics_disable_auto_disabler": true,
+		"analytics_auto_collection_enabled": true,
+    	"messaging_auto_init_enabled": true,
+		"messaging_android_notification_channel_id": "bcet-notifications",
+		"messaging_android_notification_color": "@color/white"
+	}
+}

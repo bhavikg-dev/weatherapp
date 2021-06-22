@@ -1,0 +1,7 @@
+{
+    "locations":{
+        "getLocations": "/data/2.5/find?appid=c5649c2ba7034ee4d047abeef317e928",
+        "getLocation": "/data/2.5/weather?appid=c5649c2ba7034ee4d047abeef317e928",
+        "getMyLocation": "/data/2.5/weather?appid=c5649c2ba7034ee4d047abeef317e928"
+    }
+}
